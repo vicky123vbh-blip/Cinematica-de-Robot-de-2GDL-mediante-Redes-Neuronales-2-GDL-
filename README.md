@@ -1,4 +1,4 @@
-# Cinemática de Robots mediante Redes Neuronales (2 GDL)
+# Cinemática de un Robot mediante Redes Neuronales (2 GDL)
 ### Pruebas Preliminares de Tesis | Ingeniería Mecatrónica
 
 Este repositorio contiene el desarrollo y validación de modelos de Inteligencia Artificial aplicados a la cinemática de un manipulador planar de 2 Grados de Libertad (GDL). Estos experimentos sirvieron como base para la implementación final en el robot **UR3e**.
