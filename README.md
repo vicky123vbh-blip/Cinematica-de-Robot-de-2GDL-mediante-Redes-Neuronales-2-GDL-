@@ -6,7 +6,7 @@ Este repositorio contiene el desarrollo y validación de modelos de Inteligencia
 ---
 
 ## Descripción del Proyecto
-El objetivo fue entrenar una red neuronal capaz de aprender la relación entre los ángulos de las articulaciones $(\theta_1, \theta_2)$ y las coordenadas cartesianas $(x, y)$, eliminando la necesidad de resolver ecuaciones trigonométricas complejas de forma manual.
+El objetivo fue entrenar una red neuronal capaz de aprender la relación entre los ángulos de las articulaciones (\theta_1, \theta_2) y las coordenadas cartesianas (x, y), eliminando la necesidad de resolver ecuaciones trigonométricas complejas de forma manual.
 
 ### Especificaciones Técnicas
 * **Arquitectura:** Red Neuronal Prealimentada (MLP).
